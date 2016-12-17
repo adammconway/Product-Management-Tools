@@ -1,3 +1,8 @@
+Original Author: Adam Conway
+License: Released under Creative Commons Attribution 4.0 International
+
+
+
 **Notes for reader** - The intention of this document is to be a more modern and lightweight version of the MRD and PRD that fits better into agile-ish processes.  Regardless of development process, Product Managers still sometimes need a good requirements document.  This document is an attempt to provide a template for use by PM orgs who sometimes need a requirements document. 
 
 The biggest difference between this document and a classic document is that it emphasizes the feature description over requirements and has the requirements take on the role of success criteria.  The intention of this is to reduce the requirements section and create a shorter, more readable document.  This requirements document's audience is engineering.  
