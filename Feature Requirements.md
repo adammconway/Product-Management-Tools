@@ -31,6 +31,7 @@ This should be viewed as success criteria not as a description of the feature vi
 *  **Performance** - How well a feature performs, if it is a website, responsiveness is important, wheras with a system it might be throughput.  
 *  **Usability** - How does the Product Manager expect the product to be used, and what effort is required for usability
 *  **Configurability** - What kind of configuration options are expected, and what sorts of things are expected to be automatic.
+*  **Compatibility** - This is an oft forgotten section of a requirements document.  This is compatiblity with different products within the company (e.g. this feature will be supported on Cybertron 1000 and 2000 but not 3000) or other platform support (e.g. this feature will be supported on OSX and Windows, but not Linux) 
 
 ##Design Considerations (Optional)
 The classic school of thought is that PMs write only requirements and are barred from designing the product or being involved in the design... for lots of reasons this is counter productive (e.g. PMs, instead, writing extensive requirements such that the product can only be designed one way).  Rather it is my preference that the PM has a safe place to give their design opinion in the requirements doc.      
