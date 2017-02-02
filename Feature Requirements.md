@@ -23,7 +23,12 @@ Provide links to other relevant requirments or documents.  If you are using a do
 In my opinion this is the most important section of a requirements document.  This is your opportunity to describe what you expect out of the completed feature...  Except where not possible, this should be told from a users perspective using use-cases.  This section should include mockups and/or architectural diagrams if possible.
  
 ## Market Overview and Feature Justificaiton
-It is important to explain why we are doing features, this section can be just a few sentances or longer for more complex features
+It is important to explain why we are doing features, this section can be just a few sentances or longer for more complex features.  For an early stage company it is partucularly important to decompose the justificaiton as follows:
+
+*  How this feature gets described to prospects
+*  How this feature gets demonstrated to a prospect
+*  How this feature gets evalutated by the prospect
+*  How a customer uses the feature after having purchased.
 
 ## Requirements
 This should be viewed as success criteria not as a description of the feature via requirments (which is the old school way of writing requirements, agile adherent's will mock you for writing features via requirements, and that should be avoided).  Things to think about in requirements are:
