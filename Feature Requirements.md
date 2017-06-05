@@ -13,10 +13,10 @@ This document is only a guideline.
 
 **Note for people who prefer PowerPoint to write requirements** - I understand the allure of PowerPoint, one can merge text and pictures with ease, which frankly is unmatched in any other application, however, 
 
-##Overview
+## Overview
 This overview should, in no more than a few sentances, provide the reader with an overview of the product/feature and why we are building it.  A reader should be able to read this overview and know what the document is.  This is useful, because often people will have to sort through several requirments documents to find what they are looking for.  So do the future a favor and write a good Overview. 
 
-###Links to other Relevant docs
+### Links to other Relevant docs
 Provide links to other relevant requirments or documents.  If you are using a document management system that doesn't support permanant links, then fix that part first.
 
 ## Feature Description
@@ -38,6 +38,6 @@ This should be viewed as success criteria not as a description of the feature vi
 *  **Configurability** - What kind of configuration options are expected, and what sorts of things are expected to be automatic.
 *  **Compatibility** - This is an oft forgotten section of a requirements document.  This is compatiblity with different products within the company (e.g. this feature will be supported on Cybertron 1000 and 2000 but not 3000) or other platform support (e.g. this feature will be supported on OSX and Windows, but not Linux) 
 
-##Design Considerations (Optional)
+## Design Considerations (Optional)
 The classic school of thought is that PMs write only requirements and are barred from designing the product or being involved in the design... for lots of reasons this is counter productive (e.g. PMs, instead, writing extensive requirements such that the product can only be designed one way).  Rather it is my preference that the PM has a safe place to give their design opinion in the requirements doc.      
 
