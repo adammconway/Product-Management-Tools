@@ -23,17 +23,17 @@ Provide links to other relevant requirments or documents.
 In my opinion this is the most important section of a requirements document.  This is your opportunity to describe what you expect out of the completed feature...  Except where not possible, this should be told from a users perspective using use-cases and examples.  This section should include mockups and/or architectural diagrams if possible.
  
 ## Market Overview and Feature Justificaiton
-It is important to explain why we are doing features, this section can be just a few sentances or longer for more complex features.  For an early stage company it is partucularly important to decompose the justificaiton as follows:
+It is important to explain why we are doing features, this section can be just a few sentences or longer for more complex features.  For an early stage company it is partucularly important to decompose the justificaiton as follows:
 
 *  How this feature gets described to prospects
 *  How this feature gets demonstrated to a prospect
-*  How this feature gets evalutated by the prospect
+*  How this feature gets evaluated by the prospect
 *  How a customer uses the feature after having purchased.
 
 ## Requirements
 This should be viewed as success criteria not as a description of the feature via requirments (which is the old school way of writing requirements, agile adherent's will mock you for writing features via requirements, and that should be avoided).  Things to think about in requirements are:
 
-*  **Performance** - How well a feature performs, if it is a website, responsiveness is important, wheras with a system it might be throughput.  
+*  **Performance** - How well a feature performs, if it is a website, responsiveness is important, whereas with a system it might be throughput.  
 *  **Usability** - How does the Product Manager expect the product to be used, and what effort is required for usability
 *  **Configurability** - What kind of configuration options are expected, and what sorts of things are expected to be automatic.
 *  **Compatibility** - This is an oft forgotten section of a requirements document.  This is compatiblity with different products within the company (e.g. this feature will be supported on Cybertron 1000 and 2000 but not 3000) or other platform support (e.g. this feature will be supported on OSX and Windows, but not Linux) 
